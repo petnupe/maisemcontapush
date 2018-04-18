@@ -1,0 +1,22 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.tecbiz.testepush7"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.tecbiz.testepush7"
+    },
+    "phonegap-plugin-push": {
+      "FCM_VERSION": "11.6.2",
+      "PACKAGE_NAME": "com.tecbiz.testepush7"
+    }
+  },
+  "dependent_plugins": {}
+}
