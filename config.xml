@@ -2,7 +2,7 @@
 <widget id="com.maisemconta.appmaisemconta" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>MaisEmConta</name>
     <description>
-        
+        Aplicativo muito útil para comparação de preços e produtos com base em seu custo benefício.
     </description>
     <author email="pemadata@gmail.com" href="http://phonegap.com">
         PNP Developer
