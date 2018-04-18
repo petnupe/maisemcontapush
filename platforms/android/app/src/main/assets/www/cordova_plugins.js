@@ -56,7 +56,8 @@ module.exports.metadata =
   "cordova-plugin-dialogs": "1.3.4",
   "cordova-plugin-network-information": "1.3.4",
   "phonegap-plugin-push": "2.1.3",
-  "cordova-plugin-fcm": "2.1.2"
+  "cordova-plugin-fcm": "2.1.2",
+  "cordova-plugin-whitelist": "1.3.3"
 };
 // BOTTOM OF METADATA
 });
