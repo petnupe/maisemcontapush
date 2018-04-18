@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "297831217125",
+    "firebase_url": "https://mais-em-conta-b99ff.firebaseio.com",
+    "project_id": "mais-em-conta-b99ff",
+    "storage_bucket": "mais-em-conta-b99ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297831217125:android:ba274e54cf840faa",
+        "android_client_info": {
+          "package_name": "com.maisemconta.appmaisemconta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297831217125-m0f1p717p8ilh63943mu9obracdeake8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxjibpEF8kPw2vhrpPRJkG_G3GZ79_dU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

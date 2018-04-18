@@ -16,6 +16,9 @@
     "phonegap-plugin-push": {
       "FCM_VERSION": "11.6.2",
       "PACKAGE_NAME": "com.tecbiz.testepush7"
+    },
+    "cordova-plugin-fcm": {
+      "PACKAGE_NAME": "com.tecbiz.testepush7"
     }
   },
   "dependent_plugins": {}
